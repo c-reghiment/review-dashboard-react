@@ -1,0 +1,2253 @@
+[
+  {
+    "session_id": "why-am-I-sad",
+    "session_title": null,
+    "n_reviews": 12,
+    "avg_sentiment": 0.132,
+    "pct_negative": 0.25,
+    "avg_rating": 4.58,
+    "themes": {
+      "content": 1,
+      "presenter": 0,
+      "utility": 6,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "creo que debo de dejar de luchar y batallar con gente que siempre sencillamente no le interesas ni quiere cambiar, ni ni me importan lo que te hace sentir o los problemas que te causan, creo que yo simplemente tengo que apartarme de esas personas y alejarme, y reconocer que son esa clase de tipo de personas sumamente egoístas y centradas en sí misma así apartarme de ellas en vez de querer hablar, convencer, comunicar o tener una gran relación, simplemente apartarme (5)argentina k.",
+        "count": 1
+      },
+      {
+        "text": "this journeys helped me put my sadness into words, not run away from it but welcome it because it’s normal!",
+        "count": 1
+      },
+      {
+        "text": "i’ve been allowing it, without clearly asking, “hey, why are you still writing to me?",
+        "count": 1
+      },
+      {
+        "text": "sadness isn’t an enemy, it can be a friend.",
+        "count": 1
+      },
+      {
+        "text": "i completed \"releasing the sadness\" and it changed my perspective.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 30,
+    "status": "problematic",
+    "reviews": [
+      {
+        "review_id": "a1a5f2743e9471a616da93b2a4eeb4b7",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Creo que debo de dejar de luchar y batallar con gente que siempre sencillamente no le interesas ni quiere cambiar, ni ni me importan lo que te hace sentir o los problemas que te causan, creo que yo simplemente tengo que apartarme de esas personas y alejarme, y reconocer que son esa clase de tipo de personas sumamente egoístas y centradas en sí misma así Apartarme de ellas en vez de querer hablar, convencer, comunicar o tener una gran relación, simplemente apartarme     (5)Argentina K.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": -0.346,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "Creo que debo de dejar de luchar y batallar con gente que siempre sencillamente no le interesas ni quiere cambiar, ni ni me importan lo que te hace sentir o los problemas que te causan, creo que yo simplemente tengo que apartarme de esas personas y alejarme, y reconocer que son esa clase de tipo de personas sumamente egoístas y centradas en sí misma así Apartarme de ellas en vez de querer hablar, convencer, comunicar o tener una gran relación, simplemente apartarme (5)Argentina K."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "4ecf63231be756867afa2dc7d57e56c2",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 3,
+        "review_text": "Preciso falar     (3)Francisco S.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "0ef25655408540735668ea6f41b940f2",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 2,
+        "review_text": "None     (2)S S.3 months ago",
+        "review_date": "2025-08-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "7b20427b1ddcd5f711d7749ed253ed4c",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This journeys helped me put my sadness into words, not run away from it but welcome it because it’s normal!     (5)Ele J.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.46749999999999997,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "This journeys helped me put my sadness into words, not run away from it but welcome it because it’s normal!"
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "6922df480952122c9dd49989ed50d1b7",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I did a journey on sadness about a guy who keeps writing to me, but he doesn’t really want anything serious. I’ve been allowing it, without clearly asking, “Hey, why are you still writing to me? What do you actually want?”\nI liked that the journey helped me see this hurts because I really value clarity - and when things are blurry, it’s painful. It made it easier for me to go and ask him directly.     (5)Viorica V.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.2701,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [
+          "I’ve been allowing it, without clearly asking, “Hey, why are you still writing to me?"
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "d9aca62ead2dd7b3bddb36da18a297ec",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Sadness isn’t an enemy, it can be a friend. I completed \"Releasing the Sadness\" and it changed my perspective. I learned to see sadness with gentle eyes, without fear and to accept it as a normal part of life. Highly recommend this course.      (5)Ana Maria G.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.2313,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "Sadness isn’t an enemy, it can be a friend.",
+          "I completed \"Releasing the Sadness\" and it changed my perspective."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "9f43a46698c102777efbdc2b378a5dfb",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I loved this journey. It was insightful and simple to work through. Thank you self talk!     (5)Elena A.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.7712,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a0368d7f4cafa32a91064b7aee6e5cbc",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Very useful session.     (5)Marcela P.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.4927,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "68e41e3727ac4508e2827bb8fff222b0",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It’s okay to feel sad. Sadness is a natural part of who I am, and it doesn’t define my worth or strength. Instead of resisting it, I’ve learned that true power comes from acceptance. Acknowledging my sadness allows me to understand it, sit with it, and even find meaning within it. It’s not about suppressing emotions but embracing them as part of my human experience. When I choose to “play” with my sadness, I give myself permission to explore it with curiosity rather than fear. This mindset transforms sadness from a burden into a teacher, helping me grow, reflect, and ultimately become more resilient.     (5)Mîrzac N.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": -0.9572,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "It’s okay to feel sad.",
+          "Acknowledging my sadness allows me to understand it, sit with it, and even find meaning within it.",
+          "It’s not about suppressing emotions but embracing them as part of my human experience."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "14dc07b490c9894033641deef5371a8b",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Great one!     (5)Adrian P.10 months ago",
+        "review_date": "2025-01-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.6588,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "e3e72649abc810fe565a452b4a21777e",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It's normal to be sad, it's important to notice your feelings, take time to release to he sadness through the you you feel you can do it.     (5)Maria J.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": -0.6869000000000001,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "It's normal to be sad, it's important to notice your feelings, take time to release to he sadness through the you you feel you can do it."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "d9bcf1d707d1c48484e622e4439a3767",
+        "session_id": "why-am-I-sad",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I fully accepted my sadness, I could feel it, and then think clearly about it and also in the end I could release it in my body. I allowed myself to cry, and also to give myself a warm hug in the end. What a nice journey indeed.     (5)Ruxandra S.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/why-am-I-sad",
+        "sentiment": 0.6838,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+    "session_title": null,
+    "n_reviews": 3,
+    "avg_sentiment": -0.213,
+    "pct_negative": 0.667,
+    "avg_rating": 5,
+    "themes": {
+      "content": 0,
+      "presenter": 0,
+      "utility": 1,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "also, trying to meet it from a parent position was making things worse!",
+        "count": 1
+      },
+      {
+        "text": "i realized that my immediate reaction when my need for autonomy is not fulfilled is to leave - didn't see it before.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 54,
+    "status": "mixed",
+    "reviews": [
+      {
+        "review_id": "718f238537e84ed02f1ba9737067fc5c",
+        "session_id": "how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Didn’t expect it to go this deep into unmet needs! So insightful!     (5)Ele J.4 months ago",
+        "review_date": "2025-07-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "63dfaf97b84e3d6a15baa29489107108",
+        "session_id": "how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I didn’t realize this need for safety is affecting me to such a degree! Also, trying to meet it from a parent position was making things worse! Looking at this need from an adult position really changed my attitude.     (5)Ele J.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+        "sentiment": -0.2225,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "Also, trying to meet it from a parent position was making things worse!"
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "58b894741294b90a8c11b3804b336c1d",
+        "session_id": "how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I realized that my immediate reaction when my need for autonomy is not fulfilled is to leave - didn't see it before.     (5)Viorica V.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-communicate-my-needs-at-work-by-psychologist-dorina-vasilache",
+        "sentiment": -0.4178,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "I realized that my immediate reaction when my need for autonomy is not fulfilled is to leave - didn't see it before."
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+    "session_title": null,
+    "n_reviews": 3,
+    "avg_sentiment": -0.131,
+    "pct_negative": 0.333,
+    "avg_rating": 5,
+    "themes": {
+      "content": 0,
+      "presenter": 0,
+      "utility": 1,
+      "technical": 1
+    },
+    "top_pain_points": [
+      {
+        "text": "on this journey, i reminded and asked myself questions about the need to replenish my inner resources, because the role of a parent is so complex and not always really appreciated.",
+        "count": 1
+      },
+      {
+        "text": "due to the application, i understood why we come to conflict with children, because we cannot satisfy our personal needs.",
+        "count": 1
+      },
+      {
+        "text": "i will try to be more careful to myself and dedicate time to replenishing my resources so that negative emotions do not accumulate.",
+        "count": 1
+      },
+      {
+        "text": "it was a gently reminder that it’s all interconnected: often, when my needs are not satisfied i can be angry and i’m not really listening the needs of my child.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 45,
+    "status": "mixed",
+    "reviews": [
+      {
+        "review_id": "54b34a90342457efefd021c041766e8b",
+        "session_id": "managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Great experience     (5)Iurie B.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+        "sentiment": 0.6249,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "9cd17dd1aa9db2805e6a4571fe19d8d4",
+        "session_id": "managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "On this journey, I reminded and asked myself questions about the need to replenish my inner resources, because the role of a parent is so complex and not always really appreciated. Due to the application, I understood why we come to conflict with children, because we cannot satisfy our personal needs. I will try to be more careful to myself and dedicate time to replenishing my resources so that negative emotions do not accumulate. I’m thankful to creators of application that made me remind very important questions in relationship with my kids and made me feel better.     (5)Olga T.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+        "sentiment": -0.8812000000000001,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility",
+          "technical"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "On this journey, I reminded and asked myself questions about the need to replenish my inner resources, because the role of a parent is so complex and not always really appreciated.",
+          "Due to the application, I understood why we come to conflict with children, because we cannot satisfy our personal needs.",
+          "I will try to be more careful to myself and dedicate time to replenishing my resources so that negative emotions do not accumulate."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "639f86b9691e5fae4558beac53339f2d",
+        "session_id": "managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It was a gently reminder that it’s all interconnected: often, when my needs are not satisfied I can be angry and I’m not really listening the needs of my child. I can choose to reflect often with calm and just be there for me and for her..     (5)Cezara P.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/managing-anger-as-a-parent-by-psychologist-adela-moldovan",
+        "sentiment": -0.13540000000000002,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "It was a gently reminder that it’s all interconnected: often, when my needs are not satisfied I can be angry and I’m not really listening the needs of my child."
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+    "session_title": null,
+    "n_reviews": 3,
+    "avg_sentiment": 0.216,
+    "pct_negative": 0.333,
+    "avg_rating": 4.67,
+    "themes": {
+      "content": 0,
+      "presenter": 0,
+      "utility": 0,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "what i realized is that i don't really have a defined conscious role that i take at home, which causes me pain.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 31,
+    "status": "mixed",
+    "reviews": [
+      {
+        "review_id": "03a1b6a42fb7e228e50dde270ebebba9",
+        "session_id": "how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It took me a while to figure out the transition ritual but it was worth the time invested!     (5)Ele J.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+        "sentiment": 0.3903,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "de3bf76b863c823ee997df62864bbbd5",
+        "session_id": "how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "Focus on what you can control. The session talks about enjoying family time, but it speaks from a parent perspective. This takes away other forms of family. Otherwise, I enjoyed the session.     (4)Andre B.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+        "sentiment": 0.7684,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "39930425a8054cbda2ae86ba44c55a55",
+        "session_id": "how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "What I realized is that I don't really have a defined conscious role that I take at home, which causes me pain.     (5)Viorica V.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-leave-work-at-work-and-enjoy-family-time-by-psychologist-dr-brent-bounds",
+        "sentiment": -0.5106,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "What I realized is that I don't really have a defined conscious role that I take at home, which causes me pain."
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "feeling-enough",
+    "session_title": null,
+    "n_reviews": 15,
+    "avg_sentiment": 0.219,
+    "pct_negative": 0.267,
+    "avg_rating": 4.8,
+    "themes": {
+      "content": 3,
+      "presenter": 2,
+      "utility": 8,
+      "technical": 1
+    },
+    "top_pain_points": [
+      {
+        "text": "it was so surprising to link my current feeling of not performing well enough to a specific situation from my childhood with my grandpa.",
+        "count": 1
+      },
+      {
+        "text": "i worked on the feeling of not being enough to make money and the journey brought up events where i formed the belief that i consider myself \"poor\".",
+        "count": 1
+      },
+      {
+        "text": "it also helped me see the gift behind this \"being poor\" state and understand why it hurts me.",
+        "count": 1
+      },
+      {
+        "text": "the journey shifted my perspective over the problem with working hard and for no money.",
+        "count": 1
+      },
+      {
+        "text": "there was some insightful information along the way, and i've realised what the problem or the root cause of my feeling is, but i'm still not sure how to make it go away.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 30,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "a7b414583a13712a1b8555493980278a",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "I need to accept and allow my own emotions to come up within myself and know how to navigate them without giving in to them if I have any shot at successfully sharing them with others when looking for support or guidance without the situation resulting in feeling severely misunderstood or giving in to the intense thing I’m feeling causing me to act out against those I love     (4)Grace J.a month ago",
+        "review_date": "2025-10-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.9282,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "34f665e0f713f699f89a5fd114b0d8c1",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Its good to get feelings out     (5)Grant B.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.4404,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "c8577c65791e5fd66b6f9d3e83c84e76",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Reflexión     (5)Argentina K.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "9b2e2a421b398fab399491815b180cef",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "Keep practicing     (4)Lynn M.3 months ago",
+        "review_date": "2025-08-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "9227643fc68024b200f004068ab710e8",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It was so surprising to link my current feeling of not performing well enough to a specific situation from my childhood with my grandpa. Reflecting on what I would have loved to hear from my grandpa back then instantly changed my state. I felt so loved and accepted!     (5)Ele J.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.8822,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "It was so surprising to link my current feeling of not performing well enough to a specific situation from my childhood with my grandpa."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "d1b6d32a7604cb2ddcb16288ca382aa2",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Helpful! Good insights! Well paced!     (5)Samantha S.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.826,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "8e251bd49775b979be1d58b0f57bec58",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I worked on the feeling of not being enough to make money and the journey brought up events where I formed the belief that  I consider myself \"poor\". It also helped me see the gift behind this \"being poor\" state and understand why it hurts me. My gift is to be resourceful and when I limit myself, I suffer. The journey shifted my perspective over the problem with working hard and for no money.     (5)Viorica V.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": -0.8771,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "I worked on the feeling of not being enough to make money and the journey brought up events where I formed the belief that I consider myself \"poor\".",
+          "It also helped me see the gift behind this \"being poor\" state and understand why it hurts me.",
+          "The journey shifted my perspective over the problem with working hard and for no money."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "35f67728366946ffeca60b711dbcd897",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "There was some insightful information along the way, and I've realised what the problem or the root cause of my feeling is, but I'm still not sure how to make it go away.     (5)Iulian G.7 months ago",
+        "review_date": "2025-04-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": -0.5166000000000001,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "There was some insightful information along the way, and I've realised what the problem or the root cause of my feeling is, but I'm still not sure how to make it go away."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "1b99ee44d3d172ffabf068cd62272a38",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Well I love the journey. It’s probably one of the most in depth and better journeys on the app, especially considering the questions asked. And Viorica helped brainstorm it ;) from personal experience. It’s relatable, real, and amazing.     (5)Andre B.7 months ago",
+        "review_date": "2025-04-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.9313,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility",
+          "technical"
+        ],
+        "primary_theme": "content",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "868a9d1fea0abd66b589c833cbc9ee7c",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Focus on actions that fulfill the unmet need, rather than on what you think you lack.     (5)Ana Maria G.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.1531,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "2639de146d66f15ddd44e922fdb3c16b",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I should love myself in the way I am and that its okay to be exactly like that.     (5)Jens W.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.8225,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "42128ff2acac9914378405aebb358d35",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "The introspective questions in this journey helped me define what 'being enough' means to me.\nI’ve realized that, for me, 'being enough' is a temporary state of mind that occurs when my present self is not aligned with the self I aspire to be.\nAcknowledging this helps me focus on narrowing the gap between who I am and who I want to become by setting a clear direction and action plan.\nThese steps help reduce anxiety and increase my self-confidence.     (5)Mihaela T.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.7980999999999999,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "presenter",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [
+          "I’ve realized that, for me, 'being enough' is a temporary state of mind that occurs when my present self is not aligned with the self I aspire to be."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "09d4c7ab1033fda6f8f482b3bd911dcb",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "I learned what I'm in fear of and how it can make me unfocused on being in the present.     (4)Marcus F.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": -0.7096,
+        "sentiment_label": "negative",
+        "themes": [
+          "presenter",
+          "utility"
+        ],
+        "primary_theme": "presenter",
+        "pain_points": [
+          "I learned what I'm in fear of and how it can make me unfocused on being in the present."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a204e3702269cb6a1f02ad14ae087614",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Thank you for helpiiing meeeeeeeeeeeeeeee but i still think im ugly and unworthy.     (5)Lilly H.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": -0.8271,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "Thank you for helpiiing meeeeeeeeeeeeeeee but i still think im ugly and unworthy."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "153d58761263a4c1f3513b4b2537262c",
+        "session_id": "feeling-enough",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Good introspective questions.     (5)Adrian P.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-enough",
+        "sentiment": 0.4404,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+    "session_title": null,
+    "n_reviews": 5,
+    "avg_sentiment": 0.323,
+    "pct_negative": 0.2,
+    "avg_rating": 5,
+    "themes": {
+      "content": 1,
+      "presenter": 0,
+      "utility": 3,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "i didn't expect to go that deep into the thoughts flow.",
+        "count": 1
+      },
+      {
+        "text": "i realized that my anxiety came from my inner fear to be rejected and left/abandoned that's why i wasn't truly myself and wasn't telling directly that i don't like the guy as potential partner.",
+        "count": 1
+      },
+      {
+        "text": "i was shocked that my need of being authentic, i don't satisfy it for myself out of this fear of \"being abandoned\", like omg...",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 24,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "6802164826de572eaa67d3c34ad54bf8",
+        "session_id": "how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I went deeper than I thought in this session. It left me surprised with what I found! \nAlso, it helped me gain clarity on what action I should take next!     (5)Elena O.12 days ago",
+        "review_date": "2025-10-29",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "sentiment": 0.8217,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "114e578d310602e7f664de94c8189a24",
+        "session_id": "how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Thanks to this journey, I have a better understanding of where my anxiety and stress comes from. I didn’t think I was someone who doesn’t deal too much with with anxiety but being prepared for it when it enters my life will be so helpful for me and those around me.     (5)Carter H.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "sentiment": 0.8212,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "16f2e3d6364dbe7a7a6587bcfaa730ed",
+        "session_id": "how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Very introspective and useful questions.     (5)Mihaela T.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "sentiment": 0.4877,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "e07c3901a2f12b3e85d43eb1e0a302a1",
+        "session_id": "how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Amazing journey, it took me to mistakes I did in childhood and reviewing them gave me a totally new perspective on mistakes. O felt so much self-compassion! Thank you!     (5)Ele J.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "sentiment": 0.485,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "51b46ce25358b5cc339f288646047c09",
+        "session_id": "how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I didn't expect to go that deep into the thoughts flow. I worked on a specific case from a recent \"sort of a date\". I realized that my anxiety came from my inner fear to be rejected and left/abandoned that's why I wasn't truly myself and wasn't telling directly that I don't like the guy as potential partner. I was shocked that my need of being authentic, I don't satisfy it for myself out of this fear of \"being abandoned\", like omg...(I couldn't see directly the link between these 2 before)     (5)Viorica V.7 months ago",
+        "review_date": "2025-04-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-anxiety-by-psychologist-gabriela-ghergut",
+        "sentiment": -0.9997,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "I didn't expect to go that deep into the thoughts flow.",
+          "I realized that my anxiety came from my inner fear to be rejected and left/abandoned that's why I wasn't truly myself and wasn't telling directly that I don't like the guy as potential partner.",
+          "I was shocked that my need of being authentic, I don't satisfy it for myself out of this fear of \"being abandoned\", like omg..."
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+    "session_title": null,
+    "n_reviews": 16,
+    "avg_sentiment": 0.287,
+    "pct_negative": 0.125,
+    "avg_rating": 4.94,
+    "themes": {
+      "content": 1,
+      "presenter": 0,
+      "utility": 8,
+      "technical": 1
+    },
+    "top_pain_points": [
+      {
+        "text": "it helped me reframe my fear of being exposed and see “posting online” through the lens of my value.",
+        "count": 1
+      },
+      {
+        "text": "it helped me understand that procrastination is a just coping mechanism to deal with the emotion i associate with the task i delay on doing.",
+        "count": 1
+      },
+      {
+        "text": "it helped me understand that i bring my childhood fear of rejection into business and that i need to bring peace in my heart regarding rejection with my dad.",
+        "count": 1
+      },
+      {
+        "text": "i'm too self critical.",
+        "count": 1
+      },
+      {
+        "text": "as a result, o created a new are array of thoughts about this activity to train my brain that this is a wise choice not an obligation.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 23,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "15333fe91e1d963fe1ad25e6e288a012",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Alegiti calea și dai foc la ghete dind maximul in proces!     (5)Andrei S.3 months ago",
+        "review_date": "2025-08-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "216fdc1cb126508b0ef96fd8979cfa00",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It calmed me down and changed how I see what posting online means for me. It helped me reframe my fear of being exposed and see “posting online” through the lens of my value.     (5)Viorica V.3 months ago",
+        "review_date": "2025-08-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.128,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "It helped me reframe my fear of being exposed and see “posting online” through the lens of my value."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "6ad7a87cf34e6e414910fcf7e2078dfb",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It's something that makes you much more aware.     (5)Belous S.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "e98a037eaf437afc6a252814550a5d20",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Raised some questions for myself.     (5)Costa C.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "4e0933939fa00ffd5d06381a7687c998",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Sweet! Very nice app, guiding through the process and understanding the motives behind procrastination.     (5)Denis A.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.7495,
+        "sentiment_label": "positive",
+        "themes": [
+          "technical"
+        ],
+        "primary_theme": "technical",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "0467480a778e873ed2919739532712fd",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It helped me understand that procrastination is a just coping mechanism to deal with the emotion I associate with the task I delay on doing.     (5)Denis A.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": -0.3182,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "It helped me understand that procrastination is a just coping mechanism to deal with the emotion I associate with the task I delay on doing."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "1fe36b0fe44b5cda55b0da075a681fa6",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "It made the reason and solution more clear.\nIt gave me some peace of mind regarding the problem.\nI paved the thought of a necessary shift of ambiance and habits for a better life.     (4)Sandu C.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.8357,
+        "sentiment_label": "positive",
+        "themes": [
+          "content"
+        ],
+        "primary_theme": "content",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "8654f39c8730049b4ba9617a88d02986",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It helped me understand that I bring my childhood fear of rejection into business and that I need to bring peace in my heart regarding rejection with my dad.     (5)Viorica V.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": -0.7717,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "It helped me understand that I bring my childhood fear of rejection into business and that I need to bring peace in my heart regarding rejection with my dad."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "98b31bcf0d23005c0b59b87cd15088da",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I'm too self critical. I should give myself more credit for the things I’ve done thus far in my life.     (5)Ethan L.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.1513,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "I'm too self critical."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "28e90fe411b9cc852fc3d3e9906764af",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I did this journey on procrastinating to do 10k steps a day. I found out at the root cause was “feeling obligated” to do it because all experts recommend it. As a result, o created a new are array of thoughts about this activity to train my brain that this is a wise choice not an obligation. It wasn’t easy but I loved it!     (5)Ele J.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.8477,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "As a result, o created a new are array of thoughts about this activity to train my brain that this is a wise choice not an obligation."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "fd3cd869e6b71373a997ca6d7b1f08ae",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I loved the part of taming the emotions that is at the root cause of my procrastination! \nIt was really useful to stay with this emotion and process it!     (5)Ele J.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.8261,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "fed6375203dd6f6fb3ab6d299ed4cafe",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It’s interesting to think about procrastination through different lenses I had not yet considered, it’s not all bad but can really just be a guiding light towards deeper issues. it was an insightful journey and reframe!     (5)Alex K.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.4208,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "It’s interesting to think about procrastination through different lenses I had not yet considered, it’s not all bad but can really just be a guiding light towards deeper issues."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "60dc03a1c015e1a1141dd9dcc3c76429",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Incredibly helpful. I had never understood the true reasons for procrastination! Very grateful for the journey and the wisdom.     (5)Boriana G.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.8292,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "I had never understood the true reasons for procrastination!"
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "e4a10cdfab5a80fc8312c3bde063bf01",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I just completed the course and it was a game-changer. It's practical, concise and not overwhelming. Biggest lesson? Procrastination is emotional and self-compassion is key. Highly recommend     (5)Ana Maria G.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.47559999999999997,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "It's practical, concise and not overwhelming."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "48e2b17674c781835afa0f971f6e8eb4",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This journey on procrastination was very insightful for me. I realized that, for me, procrastination often comes from an overwhelming to-do list. Sometimes, it’s the only way my mind and body force me to rest. This perspective makes me think more about how I intend to plan my work and rest time in the future.     (5)Mihaela T.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "de138b1ea7d27052a637147248e8efd9",
+        "session_id": "how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "In this journey I faced my fear of being judged by others. I ended it but telling myself - yes, others will judge me and there is nothing o can do about it. It’s not in my control! It really made me reflect on why am  I so afraid of other’s judgment!     (5)Elena O.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-overcome-procrastination-by-psychologist-dr-fuschia-sirois",
+        "sentiment": 0.41500000000000004,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "In this journey I faced my fear of being judged by others.",
+          "I ended it but telling myself - yes, others will judge me and there is nothing o can do about it.",
+          "It’s not in my control!"
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+    "session_title": null,
+    "n_reviews": 14,
+    "avg_sentiment": 0.337,
+    "pct_negative": 0.143,
+    "avg_rating": 5,
+    "themes": {
+      "content": 1,
+      "presenter": 1,
+      "utility": 7,
+      "technical": 1
+    },
+    "top_pain_points": [
+      {
+        "text": "this session was truly eye-opening - it made me realize that genuine leadership begins with learning to understand, guide, and take responsibility for myself before i can lead others.",
+        "count": 1
+      },
+      {
+        "text": "this journey reminded me yet again that each person should be allowed to make their own decisions (even wrong ones).",
+        "count": 1
+      },
+      {
+        "text": "i learned that my fears and desires are two sided of the same coin and fulfilling my needs are a way to understand if i act out of fear or out of desire (5)tina a.",
+        "count": 1
+      },
+      {
+        "text": "at first, it felt confusing and hard, but step by step, i saw that it’s actually 😀 simple and easy.",
+        "count": 1
+      },
+      {
+        "text": "un lider nu le poate face pe toate, de multe ori poate avea eșec și nu mereu ii pot împăca pe toți.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 23,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "3e4a792b2642a9a17c1fc589467ddd72",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Thank you very much, Dr. Özge. This session was truly eye-opening - it made me realize that genuine leadership begins with learning to understand, guide, and take responsibility for myself before I can lead others.     (5)Denis C.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.6096999999999999,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "This session was truly eye-opening - it made me realize that genuine leadership begins with learning to understand, guide, and take responsibility for myself before I can lead others."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "1112c0748fb10cf26d05039a00139b3a",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This journey reminded me yet again that each person should be allowed to make their own decisions (even wrong ones).     (5)Jon G.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": -0.4767,
+        "sentiment_label": "negative",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "This journey reminded me yet again that each person should be allowed to make their own decisions (even wrong ones)."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "edb6552d639926c35f411318a5d07a05",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I learned that my fears and desires are two sided of the same coin and fulfilling my needs are a way to understand if I act out of fear or out of desire     (5)Tina A.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": -0.5106,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "I learned that my fears and desires are two sided of the same coin and fulfilling my needs are a way to understand if I act out of fear or out of desire (5)Tina A."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "8d22c9c0e77b9e99766abf8e0aad7621",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This session helped me realise I have an unmet need for autonomy. I am still reflecting on the insights. Great instrospection!     (5)Patrick H.2 months ago",
+        "review_date": "2025-09-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.6588,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "425d6fa22407c7fc367fa99ef7eb6655",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I've realized I have a struggle with delegation and it made me feel that it’s ok to delegate to people to help me solving things.     (5)Iapara C.4 months ago",
+        "review_date": "2025-07-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.6124,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "c5a3fdcb0cbe222a2f872cd4cde1ac7f",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Thank you for guiding me through the process. At first, it felt confusing and hard, but step by step, I saw that it’s actually 😀 simple and easy.     (5)Corina E.4 months ago",
+        "review_date": "2025-07-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.5559,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "At first, it felt confusing and hard, but step by step, I saw that it’s actually 😀 simple and easy."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "70cda10488505e5a00f69e4bff454b81",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Un lider nu le poate face pe toate, de multe ori poate avea eșec și nu mereu ii pot împăca pe toți. \nAm nevoie sa am mai multă încredere in mine și forțele proprii     (5)Varvara P.4 months ago",
+        "review_date": "2025-07-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": -0.05,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "Un lider nu le poate face pe toate, de multe ori poate avea eșec și nu mereu ii pot împăca pe toți."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "7f5e1991f73290aea3944094285d764d",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This was very insightful.     (5)Svetlana B.4 months ago",
+        "review_date": "2025-07-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "84b9d4c7e2831462472209328592143c",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "The need of trading is something I have to work on.     (5)Carolina B.4 months ago",
+        "review_date": "2025-07-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "d5250c6eb90ebed54110cbc7e18861de",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I understood my autonomy was affected! \nI identified I had a limiting belief that I need to manage everyone’s emotions and I was trading autonomy to superficially feel competent.     (5)Patrick H.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.2481,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "009d3a36b9950f0664d50665d6a30935",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I realize this is empowering for me and others in my team once I am clear about \"what I want\"  versus \"what I am afraid\", and focus on my psychological needs equally instead of sacrificing one for another. I am amazed by how the answers are within me already! If only I could give 6 stars instead of 5 :)     (5)Ozge K.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.8052999999999999,
+        "sentiment_label": "positive",
+        "themes": [
+          "content"
+        ],
+        "primary_theme": "content",
+        "pain_points": [
+          "I realize this is empowering for me and others in my team once I am clear about \"what I want\" versus \"what I am afraid\", and focus on my psychological needs equally instead of sacrificing one for another."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "05c4e666ae6414052c1fec2ea63e6790",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Learned better about how to be ok with not being perfect. Leadership is best when it’s authentic and when it comes from within.     (5)Alex K.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.6931999999999999,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "Learned better about how to be ok with not being perfect."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "b510007f7d41ec2953ea7a791ca74a3d",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "\"My wife is my greatest resource for becoming a great leader.\" This was not something I previously realized in my efforts to become a leader. I struggle with not having everyone's voice magnified in a group setting, which then doesn't allow me to be autonomous.\n\nSuch a wonderful app that everyone should try whether or not you think you need therapy.     (5)Carter H.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.826,
+        "sentiment_label": "positive",
+        "themes": [
+          "presenter",
+          "technical"
+        ],
+        "primary_theme": "presenter",
+        "pain_points": [
+          "This was not something I previously realized in my efforts to become a leader.",
+          "I struggle with not having everyone's voice magnified in a group setting, which then doesn't allow me to be autonomous.",
+          "Such a wonderful app that everyone should try whether or not you think you need therapy."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "c99b46a5f5f66451661d6d55dc0a06db",
+        "session_id": "leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I identified I have a believe that as a leader I need to have my act together all the time. And whenever I don’t feel like I have it - o tent to isolate myself. Going through this journey helped me learn about my needs as a leader and how this limiting belief is affecting my need for competence! Great insight!     (5)Ele J.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/leading-myself-before-i-lead-others-by-psychologist-dr-ozge-kantas",
+        "sentiment": 0.7494,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "reducing-new-mom-stress-by-psychologist-sergiu-toma",
+    "session_title": null,
+    "n_reviews": 2,
+    "avg_sentiment": 0.648,
+    "pct_negative": 0,
+    "avg_rating": 4,
+    "themes": {
+      "content": 1,
+      "presenter": 0,
+      "utility": 1,
+      "technical": 1
+    },
+    "top_pain_points": [
+      {
+        "text": "i found in this journey very important ideas of motherhood, the most important idea that resonates with my inner mood is “maintaining an intense pace for the next few years is not sustainable”.",
+        "count": 1
+      },
+      {
+        "text": "and i should appreciate myself more often for this and take another extra tasks more easily.",
+        "count": 1
+      },
+      {
+        "text": "i didn't realize that motherhood started since the moment i became pregnant and somehow i forgot to appreciate all the efforts i've done since then.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 16,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "76e15f0cdd8ed60483b0603212b4fb2f",
+        "session_id": "reducing-new-mom-stress-by-psychologist-sergiu-toma",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "I found in this journey very important ideas of motherhood, the most important idea that resonates with my inner mood is “Maintaining an intense pace for the next few years is not sustainable”.  I realized that sometimes ask too much from myself, but giving birth to a child and caring of him is already an important and valuable role. And I should appreciate myself more often for this and take another extra tasks more easily. \n I also realized that I need recognition and validation from my loved ones and will tell my husband about this, because a few words help me maintain a balanced mood. \nIt was a good journey of reflexion on own thoughts. Wish good luck to creators of this this application in developing useful journeys for everyone !     (4)Olga T.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/reducing-new-mom-stress-by-psychologist-sergiu-toma",
+        "sentiment": 0.9447,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility",
+          "technical"
+        ],
+        "primary_theme": "content",
+        "pain_points": [
+          "I found in this journey very important ideas of motherhood, the most important idea that resonates with my inner mood is “Maintaining an intense pace for the next few years is not sustainable”.",
+          "And I should appreciate myself more often for this and take another extra tasks more easily."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "86a99760398f6ef5c820bb802193b158",
+        "session_id": "reducing-new-mom-stress-by-psychologist-sergiu-toma",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "I didn't realize that motherhood started since the moment I became pregnant and somehow I forgot to appreciate all the efforts I've done since then.     (4)Nina V.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/reducing-new-mom-stress-by-psychologist-sergiu-toma",
+        "sentiment": 0.3519,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "I didn't realize that motherhood started since the moment I became pregnant and somehow I forgot to appreciate all the efforts I've done since then."
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+    "session_title": null,
+    "n_reviews": 10,
+    "avg_sentiment": 0.553,
+    "pct_negative": 0.1,
+    "avg_rating": 4.7,
+    "themes": {
+      "content": 1,
+      "presenter": 0,
+      "utility": 4,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "recognizing that protecting my well-being, self-worth, and self-respect is not just a necessity, but also a reflection of my values, has shifted my mindset.",
+        "count": 1
+      },
+      {
+        "text": "now i know how to act when my boundaries are not respected.",
+        "count": 1
+      },
+      {
+        "text": "i have no reason anymore to feel guilty for letting others cross my boundary.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 15,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "9852be31c4a7db98a79327929204b4a9",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "It was enlightening to realize that setting boundaries depends on my values and on the fears I carry.     (4)Serafima S.a month ago",
+        "review_date": "2025-10-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.4939,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a6d3244c475cb636b2da886437a4cd51",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I loved this session. I worked on the boundary of putting others before me, and it helped me see my own value so I can change the situation I came with and act differently.     (5)Viorica V.a month ago",
+        "review_date": "2025-10-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.743,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "01fc3b117228c956d118f9fdc52477be",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Next time when my boundary is crossed I will understand what bothers me, why it has a value for me and act based on my value.     (5)Ana Maria G.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.4588,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "2f0eaa4a349be12feb047d1a308ab461",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "Thank you for a thoughtful reflective journey on this topic.     (4)Nadejda T.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.6249,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "73cf4b37863a83128b2c9df21a5bbb0a",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Great line of thought. I understood that being centred is one of my values that helps me respect my boundaries between my professional life, my love life and my personal time.     (5)Elena O.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.9493,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "9cbb09583445c116d38a582b4c6eabaa",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I feel a solid 9 out of 10 in terms of confidence about setting and respecting my boundaries after completing this journey. The biggest learning for me has been the importance of understanding what truly matters to me—my values—and how they can guide my actions. Recognizing that protecting my well-being, self-worth, and self-respect is not just a necessity, but also a reflection of my values, has shifted my mindset. I’ve learned that boundaries aren’t about shutting others out but about honoring myself and the things that help me thrive.\nThis journey has given me clarity on how to respond when my boundaries are tested, and it’s empowering to know that I have the ability to act in alignment with what I value, without guilt or fear. I now understand that setting boundaries is an act of self-respect and is essential for maintaining a healthy, balanced life.     (5)Ruxandra S.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.9388,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [
+          "Recognizing that protecting my well-being, self-worth, and self-respect is not just a necessity, but also a reflection of my values, has shifted my mindset."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "f9d9c02d277a72ff735ee44b37e7522a",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "The line of thought seemed interesting but I felt the whole experience left me in the same place where it found me.     (4)Florin V.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.2144,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "bb31e03db3456dd5d06734b1efb3426e",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It was an insightful therapy. Now I know how to act when my boundaries are not respected. Thank you Selftalk team     (5)Svetlana D.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": -0.6167,
+        "sentiment_label": "negative",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [
+          "Now I know how to act when my boundaries are not respected."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "d9f23b4ab921e71ff1a0be07b88d6eaf",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This journey was short but absolutely necessary. Respecting personal boundaries is a must. Everybody need to comprehend the concept of respecting ourselves and others.     (5)Diana B.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.8755,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "c280e252b8796b4a065e4c3952aeb514",
+        "session_id": "how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Great journey! \nI have no reason anymore to feel guilty for letting others cross my boundary. Now I discovered the beautiful value behind the boundary that was crossed and I can proactively act upon that value.     (5)Olga C.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-set-boundaries-at-work-by-psychologist-maria-dimitreli",
+        "sentiment": 0.8439,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "I have no reason anymore to feel guilty for letting others cross my boundary."
+        ],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-deal-with-negative-feedback-at-work-by-jocelyn-tomaka",
+    "session_title": null,
+    "n_reviews": 2,
+    "avg_sentiment": 0.575,
+    "pct_negative": 0,
+    "avg_rating": 5,
+    "themes": {
+      "content": 0,
+      "presenter": 0,
+      "utility": 1,
+      "technical": 0
+    },
+    "top_pain_points": [],
+    "top_feature_requests": [],
+    "attention_score": 11,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "0fd85e4972d87b551d78d68f46a03afe",
+        "session_id": "how-to-deal-with-negative-feedback-at-work-by-jocelyn-tomaka",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "It was great to make a difference between the feedback and the way I interpret the feedback!     (5)Ele J.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-negative-feedback-at-work-by-jocelyn-tomaka",
+        "sentiment": 0.6588,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "1fe7b025fe402a80731d0d2ce196522b",
+        "session_id": "how-to-deal-with-negative-feedback-at-work-by-jocelyn-tomaka",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Finding your sphere of influence greatly helps in regulating your emotions around feedback given in the workplace!     (5)Alex K.6 months ago",
+        "review_date": "2025-05-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-deal-with-negative-feedback-at-work-by-jocelyn-tomaka",
+        "sentiment": 0.4914,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+    "session_title": null,
+    "n_reviews": 12,
+    "avg_sentiment": 0.586,
+    "pct_negative": 0,
+    "avg_rating": 4.92,
+    "themes": {
+      "content": 2,
+      "presenter": 2,
+      "utility": 6,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "that's a hard exercise but i think it could work.",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 10,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "9a9b2f111ceea21eea11e02d19331fad",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Would love to become better at DJ-ing with my emotions 🫶     (5)Tina A.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.7964,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "86f96ce08dae4276b3fd38fd5de2ef55",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 4,
+        "review_text": "Learned to have more glimmers.     (4)Ana Maria G.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0,
+        "sentiment_label": "neutral",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "77bc9a0461dd6d9cd0bf485717e85fec",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Glimmers help ease the burdens of an impending burnout. Also, Nicola is my fave!     (5)Andre B.8 months ago",
+        "review_date": "2025-03-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.7088,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "6c9b40792449be56ead677ec7d05eade",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Making glimmers a daily thing and learning to switch states like a DJ.     (5)Florin M.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.3612,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a929fdc35cb6fb9bb7dd672ffcefa680",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I am very excited to add more glimmers in my day - intentionally do tiny habits as glimmers!     (5)Elena O.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.4561,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "db3f3fc732b399c220535fe7606195b8",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "For a highly independent human like me, this self therapy journey means a lot. It gives me comfort to do things by myself, such as understanding why I feel burnout, and still guides me so I am sure I’m doing the right stuff. Finally, got to find out the idea - that one cm is enough to get me to the 1st meter and then km. I’m ok. And that’s the deal. \n\nThank you Selftalk     (5)Argentina B.9 months ago",
+        "review_date": "2025-02-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.8896,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a55774be01c4fcb7124c75aca7365862",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Thank you for this conscious journey when I have time for understanding myself.     (5)Maria J.10 months ago",
+        "review_date": "2025-01-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.3612,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "3200c83e664ea0afc90c1606aa9fbefd",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This session helped reflect on my bad habits that bring me short term happiness and understand what are the small things I should do in order to feel better and improve my well-being, activities I should focus on, like my health and state of mind and won't bring more harm longterm.     (5)Milena O.10 months ago",
+        "review_date": "2025-01-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.8877,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "c12c4533565d52b4be121249b832ca21",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Being the DJ of emotions. That's a hard exercise but I think it could work.     (5)Lai A.10 months ago",
+        "review_date": "2025-01-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": -0.1016,
+        "sentiment_label": "neutral",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "That's a hard exercise but I think it could work."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a17fa511e0ae453e627eb908e2722df2",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "I found it useful.\n\nIt is a clear friendly helpful course.     (5)Tim P.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.8885,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "4c6db39e35c35251d99d4bbc97a72590",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "The main takeaway from this journey is how powerful self-awareness can be. This experience has taught me the importance of truly listening to my body and emotions, recognizing the stressors that pull me down, and discovering the glimmers that lift me up. It’s been an eye-opening process, revealing just how much control I have over my emotional state. I now understand that taking care of myself means being intentional about where I focus my energy and attention.\nThis has been a deeply transformative journey, one that has given me tools to navigate the challenges of life with more ease, while embracing the positive emotions that come from the things I love. I’m leaving this experience with a sense of clarity, gratitude, and confidence that I can sustain my well-being by simply being more present and aware.     (5)Ruxandra S.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.9837,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "presenter"
+        ],
+        "primary_theme": "content",
+        "pain_points": [],
+        "feature_requests": []
+      },
+      {
+        "review_id": "1f1663ad492f8636272697f9080a54f8",
+        "session_id": "feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "This practice is pleasant to engage with because it is broken down into simple steps and key points, which nonetheless allow me to view unconscious processes from an outside perspective. \nIt helps me reassess certain things and confirm other things for myself, so I can consciously apply the recommendations in the future.     (5)Irena C.a year ago",
+        "review_date": "2024-11-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/feeling-close-to-burnout-somatic-coach-nicola-ruhnau",
+        "sentiment": 0.802,
+        "sentiment_label": "positive",
+        "themes": [
+          "presenter",
+          "utility"
+        ],
+        "primary_theme": "presenter",
+        "pain_points": [],
+        "feature_requests": []
+      }
+    ]
+  },
+  {
+    "session_id": "how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+    "session_title": null,
+    "n_reviews": 3,
+    "avg_sentiment": 0.85,
+    "pct_negative": 0,
+    "avg_rating": 5,
+    "themes": {
+      "content": 1,
+      "presenter": 0,
+      "utility": 2,
+      "technical": 0
+    },
+    "top_pain_points": [
+      {
+        "text": "the 2 minute version of the habit i wanted to adopt got me even more excited about adopting it.",
+        "count": 1
+      },
+      {
+        "text": "first it was so insightful to understand why i want this habit, second what to link it to - the cue and third, what is the 2 minute version of this habit!",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [],
+    "attention_score": 4,
+    "status": "successful",
+    "reviews": [
+      {
+        "review_id": "f6556657fe22bddad018fb2110188990",
+        "session_id": "how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "The 2 minute version of the habit I wanted to adopt got me even more excited about adopting it. Loved it!     (5)Patrick H.5 months ago",
+        "review_date": "2025-06-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+        "sentiment": 0.7716999999999999,
+        "sentiment_label": "positive",
+        "themes": [],
+        "primary_theme": null,
+        "pain_points": [
+          "The 2 minute version of the habit I wanted to adopt got me even more excited about adopting it."
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "a42d91bcb6a483345123a2caf9c6a3b9",
+        "session_id": "how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "Wow - great questions to reflect on! I did it on the habit of having uninterrupted deep work sessions to create content (write, film, reflect). First it was so insightful to understand why i want this habit, second what to link it to - the cue and third, what is the 2 minute version of this habit! Totally loved the train of thought.     (5)Ele J.7 months ago",
+        "review_date": "2025-04-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+        "sentiment": 0.8939999999999999,
+        "sentiment_label": "positive",
+        "themes": [
+          "content",
+          "utility"
+        ],
+        "primary_theme": "content",
+        "pain_points": [
+          "First it was so insightful to understand why i want this habit, second what to link it to - the cue and third, what is the 2 minute version of this habit!"
+        ],
+        "feature_requests": []
+      },
+      {
+        "review_id": "63873f46f6c91bbe84aed30406415ccc",
+        "session_id": "how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+        "session_title": null,
+        "rating": 5,
+        "review_text": "A very interesting journey. \nThe most insightful points for me were the fact that building a habit can take between 18 and 254 days, and it also was important to acknowledge that it would be a good idea to reward myself each time I stick to my habit.     (5)Mihaela T.7 months ago",
+        "review_date": "2025-04-10",
+        "reviewer": null,
+        "source_url": "https://selftalk.space/journey/how-to-build-a-habit-that-sticks-organization-psychologist-iustina-armasu",
+        "sentiment": 0.8858,
+        "sentiment_label": "positive",
+        "themes": [
+          "utility"
+        ],
+        "primary_theme": "utility",
+        "pain_points": [],
+        "feature_requests": []
+      }
+    ]
+  }
+]
