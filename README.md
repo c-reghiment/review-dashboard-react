@@ -198,3 +198,6 @@ Deploy by running `npm run build` and serving the `dist/` folder on any static h
 - **Cookie walls/modals**: the script tries to auto-dismiss; if it fails, use `--headful` and handle it manually.
 - **Missing dates**: the DOM extractor attempts to convert “2 weeks ago” style strings. For accuracy, prefer explicit timestamps.
 - **Language coverage**: theme dictionaries include common English/Romanian variants. Extend `THEME_LEX`, `FEATURE_TRIGGERS`, and `NEG_CLUES` for new languages before re-running analysis.
+
+## Additional notes
+- The scraper took the longest, especially debugging. A challenge was setting everything up with matching versions that would work together. Codex in VS Code works really well and helped a lot.
